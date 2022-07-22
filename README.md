@@ -1,4 +1,4 @@
-# Labenu Music Awards
+# LAMA
 
 
 ### [Documentação da API](https://documenter.getpostman.com/view/20355515/UzQvtk8h)
