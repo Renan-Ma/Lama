@@ -24,3 +24,4 @@ Como você deve saber muito bem, o nosso querido chefinho Astrodev é uma pessoa
 
 | [<img src="https://avatars.githubusercontent.com/u/69327864?s=96&v=4" width=100><br><sub>Renan Alencar</sub>](https://github.com/Renan-Ma) | [<img src="https://avatars.githubusercontent.com/u/98921788?v=4" width=100><br><sub>Marcos Vinicius</sub>](https://github.com/Marcos-vvc) | [<img src="https://avatars.githubusercontent.com/u/99031516?v=4" width=100><br><sub>Matheus de Souza</sub>](https://github.com/matheus92as) |
 | :---: | :---: | :---: |
+
